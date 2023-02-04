@@ -15,4 +15,4 @@
 
 ### Contacts
 
-<a href="https://vk.com/alxdzh"><img src="https://img.shields.io/badge/Telegram-161B22?style=for-the-badge&logo=Telegram&logoColor=26A5E4"/></a><a href="https://webz.telegram.org/#-1595812619"><img src="https://img.shields.io/badge/VK-161B22?style=for-the-badge&logo=VK&logoColor=0077FF"/></a>
+<a href="https://webz.telegram.org/#-1595812619"><img src="https://img.shields.io/badge/Telegram-161B22?style=for-the-badge&logo=Telegram&logoColor=26A5E4"/></a><a href="https://vk.com/alxdzh"><img src="https://img.shields.io/badge/VK-161B22?style=for-the-badge&logo=VK&logoColor=0077FF"/></a>
